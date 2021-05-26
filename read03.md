@@ -18,7 +18,7 @@ HTML is stand for hyper text markup language.
 
 **language:** The language basically implies that it has its own syntax meaning there's a right and a wrong way to code it.
 
-It has own syntax, which uses to make thestructure of your webpage.
+It has own syntax, which uses to make the structure of your webpage.
 
 There are many tags using in html but there are mandatory tags such as html, head, body, script and meta.
 
