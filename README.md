@@ -5,7 +5,7 @@
 
 
 # Table of Contents
-1. [Growth Mindset](https://replit.com/@moayadalhaj/reading-notes-3#Growthmindset.md)
+1. [Growth Mindset](https://@moayadalhaj/reading-notes-3#Growthmindset.md)
 2. [Markdown Lnguage](https://replit.com/@moayadalhaj/reading-notes-3#Markdown.md)
 3. [What is Github?](https://replit.com/@moayadalhaj/reading-notes-3#Github.md)
 4. [What is Git?](https://replit.com/@moayadalhaj/reading-notes-3#Git.md)
