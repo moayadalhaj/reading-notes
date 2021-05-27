@@ -28,7 +28,7 @@ Perform arithmetic on numbers (+, -, *, / %, ** ).
 
 > Logical operators
 
-Typically used with Boolean (logical) values (&&, ||, !exp).
+Typically used with Boolean (logical) values (&&, "||", !exp).
 
 > String operators
 
