@@ -13,3 +13,4 @@
 | Markdown Lnguage | [Markdown Lnguage](https://moayadalhaj.github.io/reading-notes/Markdown) |
 | What is Github? | [What is Github?](https://moayadalhaj.github.io/reading-notes/Github) |
 | What is Git? | [What is Git?](https://moayadalhaj.github.io/reading-notes/Git) |
+| What is JavaScript? | [What is Git?](https://moayadalhaj.github.io/reading-notes/read04) |
