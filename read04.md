@@ -36,6 +36,6 @@ Typically used with Boolean (logical) values (&&, `||`, !exp).
 
 The conditional operator is the only JavaScript operator that takes three operands. The operator can have one of two values based on a condition.
 
-Note: Can use if clause for coditional operator.
+Note: Can use if clause for conditional operator.
 
  
