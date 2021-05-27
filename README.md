@@ -11,6 +11,6 @@
 | ----------- | ----------- |
 | Growth Mindset | [Growth Mindset](https://moayadalhaj.github.io/reading-notes/Growthmindset) |
 | Markdown Lnguage | [Markdown Lnguage](https://moayadalhaj.github.io/reading-notes/Markdown) |
-| Github? | [What is Github?](https://moayadalhaj.github.io/reading-notes/Github) |
-| Git? | [What is Git?](https://moayadalhaj.github.io/reading-notes/Git) |
-| JavaScript? | [What is JavaScript?](https://moayadalhaj.github.io/reading-notes/read04) |
+| Github | [What is Github?](https://moayadalhaj.github.io/reading-notes/Github) |
+| Git | [What is Git?](https://moayadalhaj.github.io/reading-notes/Git) |
+| JavaScript | [What is JavaScript?](https://moayadalhaj.github.io/reading-notes/read04) |
