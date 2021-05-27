@@ -4,8 +4,12 @@
 
 
 
-# Table of Contents
-1. [Growth Mindset](https://moayadalhaj.github.io/reading-notes/Growthmindset)
-2. [Markdown Lnguage](https://moayadalhaj.github.io/reading-notes/Markdown)
-3. [What is Github?](https://moayadalhaj.github.io/reading-notes/Github)
-4. [What is Git?](https://moayadalhaj.github.io/reading-notes/Git)
+## Table of content
+--------
+
+| # | Content |
+| ----------- | ----------- |
+| Growth Mindset | [Growth Mindset](https://moayadalhaj.github.io/reading-notes/Growthmindset) |
+| Markdown Lnguage | [Markdown Lnguage](https://moayadalhaj.github.io/reading-notes/Markdown) |
+| What is Github? | [What is Github?](https://moayadalhaj.github.io/reading-notes/Github) |
+| What is Git? | [What is Git?](https://moayadalhaj.github.io/reading-notes/Git) |
