@@ -18,6 +18,7 @@ for (initial itration, condition, increment){
 }
 
 conition is an argument to check if it is true then the loop will execute but if it is false wont excute or stop looping.
+
 increment to increase the initial iteration until the condition is false.
 
 
