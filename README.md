@@ -52,7 +52,7 @@ Table of content:
 | ---------- | ----------------------------------------------------------- |
 | Read01     | [Introduction to React and Components](301/Read01.md)       |
 | Read02     | [State and Props](301/Read02.md)                            |
-| Read03     | [Passing Functions as Props]()                 |
+| Read03     | [Passing Functions as Props](301/Read03.md)                 |
 | Read04     | [React and Forms]()                            |
 | Read05     | [Putting it all together]()                    |
 | Read06     | [NODE.JS]()                                    |
