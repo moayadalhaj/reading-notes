@@ -55,7 +55,7 @@ Table of content:
 | Read03     | [Passing Functions as Props](301/Read03.md)                 |
 | Read04     | [React and Forms](301/Read04.md)                            |
 | Read05     | [Putting it all together](301/Read05.md)                    |
-| Read06     | [NODE.JS]()                                    |
+| Read06     | [NODE.JS](301/Read06.md)                                    |
 | Read07     | [REST]()                                       |
 | Read08     | [APIs]()                                       |
 | Read09     | [FUNCTIONAL PROGRAMMING]()                     |
