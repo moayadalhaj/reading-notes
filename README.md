@@ -57,7 +57,7 @@ Table of content:
 | Read05     | [Putting it all together](301/Read05.md)                    |
 | Read06     | [NODE.JS](301/Read06.md)                                    |
 | Read07     | [REST](301/Read07.md)                                       |
-| Read08     | [APIs]()                                       |
+| Read08     | [APIs](301/Read08.md)                                       |
 | Read09     | [FUNCTIONAL PROGRAMMING]()                     |
 | Read10     | [In memory storage]()                          |
 | Read11     | [Authentication]()                             |
