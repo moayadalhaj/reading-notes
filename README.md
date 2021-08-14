@@ -60,7 +60,7 @@ Table of content:
 | Read08     | [APIs](301/Read08.md)                                       |
 | Read09     | [FUNCTIONAL PROGRAMMING](301/Read09.md)                     |
 | Read10     | [In memory storage](301/Read10.md)                          |
-| Read11     | [Authentication]()                             |
+| Read11     | [Authentication](301/Read11.md)                             |
 | Read12     | [Mongo and Mongoose]()                         |
 | Read13     | [CRUD]()                                       |
 | Read14     | [Diversity & Inclusion in the Tech Industry]() |
