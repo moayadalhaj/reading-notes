@@ -75,7 +75,7 @@ Table of content:
 | # | Topics                                              |
 | ---------- | ----------------------------------------------------------- |
 | Read01     | [Class 01](401/Read01.md)       |
-| Read02     | [](401/Read02.md)                            |
+| Read02     | [Class 02](401/Read02.md)                            |
 | Read03     | [](401/Read03.md)                 |
 | Read04     | [](401/Read04.md)                            |
 | Read05     | [](401/Read05.md)                    |
