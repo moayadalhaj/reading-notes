@@ -81,7 +81,7 @@ Table of content:
 | Read05     | [Class 05](401/Read05.md)                    |
 | Read06     | [Class 06](401/Read06.md)                                    |
 | Read07     | [Class 07](401/Read07.md)                                       |
-| Read08     | [](401/Read08.md)                                       |
+| Read08     | [Class 08](401/Read08.md)                                       |
 | Read09     | [](401/Read09.md)                     |
 | Read10     | [](401/Read10.md)                          |
 | Read11     | [](401/Read11.md)                             |
