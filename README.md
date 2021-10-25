@@ -86,6 +86,6 @@ Table of content:
 | Read10     | [Class 10](401/Read10.md)                          |
 | Read11     | [Class 11](401/Read11.md)                             |
 | Read12     | [Class 12](401/Read12.md)                         |
-| Read13     | [](401/Read14.md)                                       |
+| Read13     | [Calss 13](401/Read13.md)                                       |
 | Read14     | [](401/Read14.md) |
 | Read15     | [](401/Read15.md) |
