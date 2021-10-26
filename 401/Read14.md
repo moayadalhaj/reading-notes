@@ -28,8 +28,9 @@ C, S = np.cos(X), np.sin(X)
 Spines are the lines connecting the axis tick marks and noting the boundaries of the data area. They can be placed at arbitrary positions and until now, they were on the border of the axis. We'll change that since we want to have them in the middle. Since there are four of them (top/bottom/left/right), we'll discard the top and right by setting their color to none and we'll move the bottom and left ones to coordinate 0 in data space coordinates.
 
 ### Types of Plots
-..|..
-:-------------------------:|:-------------------------:
+
+Types | Types
+| ----------- | ----------- |
 ![](https://github.com/rougier/matplotlib-tutorial/raw/master/figures/plot.png)  |  ![](https://github.com/rougier/matplotlib-tutorial/raw/master/figures/scatter.png)
 ![](https://github.com/rougier/matplotlib-tutorial/raw/master/figures/bar.png)  |  ![](https://github.com/rougier/matplotlib-tutorial/raw/master/figures/imshow.png)
 ![](https://github.com/rougier/matplotlib-tutorial/raw/master/figures/quiver.png)  |  ![](https://github.com/rougier/matplotlib-tutorial/raw/master/figures/pie.png)
