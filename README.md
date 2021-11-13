@@ -93,3 +93,4 @@ Table of content:
 | Read17     | [Class 17](401/Read17.md) |
 | Read18     | [Class 18](401/Read18.md) |
 | Read19     | [Class 19](401/Read19.md) |
+| Read26    | [Class 26](401/Read26.md) |
