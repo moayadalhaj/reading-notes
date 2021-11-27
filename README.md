@@ -103,3 +103,4 @@ Table of content:
 | Read33    | [Class 33](401/Read33.md) |
 | Read34    | [Class 34](401/Read34.md) |
 | Read35    | [Class 35](401/Read35.md) |
+| Read36    | [Class 36](401/Read36.md) |
