@@ -105,4 +105,4 @@ Table of content:
 | Read35    | [Class 35](401/Read35.md) |
 | Read36    | [Class 36](401/Read36.md) |
 | Read37    | [Class 37](401/Read37.md) |
-| Read38    | [Class 38](401/Read38.md) |
+| Read38    | [Class 38](401/read38.md) |
