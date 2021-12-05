@@ -108,3 +108,5 @@ Table of content:
 | Read38    | [Class 38](401/Read38.md) |
 | Read39    | [Class 39](401/Read39.md) |
 | Read41    | [Class 41](401/Read41.md) |
+| Read42    | [Class 42](401/Read42.md) |
+| Read42b    | [Class 42b](401/Read42b.md) |
